@@ -19,6 +19,7 @@
 
 ## Design decisions
 
-- [decision 1: what did you decide and why?]
-- [decision 2]
-- [decision 3]
+- Cart stored in a JavaScript array (not localStorage — out of scope for v1)
+- Cart count shown as plain digits, no styling required
+- One Add to Cart button per product (no quantity selector)
+- Click adds 1 each time; no decrement option in this version
