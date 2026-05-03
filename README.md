@@ -1,19 +1,16 @@
 # FreshCart
 
-A simple grocery storefront. Built as a teaching demo for ICTICT430 — *Apply Software Development Methodologies*.
+A simple grocery storefront. Built as a teaching demo for ICTICT430.
 
 ## Status
 
-🚧 **Work in progress** — the "Add to Cart" button doesn't do anything yet.
+✅ **Working** — Add to Cart is functional.
 
 ## Features
 
 - Product list with prices
+- Add to Cart — click to add an item, see the cart count update live
 
 ## Run it
 
-Open `index.html` in a browser, or visit the GitHub Pages link once enabled.
-
-## What's next
-
-The "Add to Cart" feature is planned but not yet implemented. See open issues for the requirements.
+Open `index.html` in a browser, or visit the GitHub Pages link.
